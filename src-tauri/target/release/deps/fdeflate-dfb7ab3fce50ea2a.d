@@ -1,0 +1,11 @@
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/libfdeflate-dfb7ab3fce50ea2a.rmeta: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/libfdeflate-dfb7ab3fce50ea2a.rlib: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/fdeflate-dfb7ab3fce50ea2a.d: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs
+
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/lib.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/compress.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/decompress.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/huffman.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fdeflate-0.3.7/src/tables.rs:

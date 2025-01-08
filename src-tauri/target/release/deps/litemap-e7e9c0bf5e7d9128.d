@@ -1,0 +1,11 @@
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/liblitemap-e7e9c0bf5e7d9128.rmeta: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/liblitemap-e7e9c0bf5e7d9128.rlib: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/n0l3x/Downloads/ScannerPro/project/src-tauri/target/release/deps/litemap-e7e9c0bf5e7d9128.d: /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs /home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs
+
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/lib.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/map.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/mod.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/slice_impl.rs:
+/home/n0l3x/.cargo/registry/src/index.crates.io-6f17d22bba15001f/litemap-0.7.4/src/store/vec_impl.rs:
